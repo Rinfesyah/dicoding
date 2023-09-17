@@ -1,4 +1,4 @@
-# dicoding
+Dicoding
 ==
 Repository untuk course dicoding
 --
