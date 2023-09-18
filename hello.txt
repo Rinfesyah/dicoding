@@ -1,5 +1,3 @@
 berisi tentang hello world
 
-
-test conflict merge from developer
-
+test conflict merged from main
